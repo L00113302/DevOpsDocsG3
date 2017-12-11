@@ -1,0 +1,11 @@
+body { 
+    background-image:url("plane3.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+ }
+ 
+#textToDisplay { 
+    
+    color:white;
+ }
+ 
